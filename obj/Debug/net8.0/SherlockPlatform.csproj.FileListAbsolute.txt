@@ -1,0 +1,15 @@
+C:\Fraud projects\SherlockPlatform\SherlockPlatform\bin\Debug\net8.0\SherlockPlatform.deps.json
+C:\Fraud projects\SherlockPlatform\SherlockPlatform\bin\Debug\net8.0\SherlockPlatform.dll
+C:\Fraud projects\SherlockPlatform\SherlockPlatform\bin\Debug\net8.0\SherlockPlatform.pdb
+C:\Fraud projects\SherlockPlatform\SherlockPlatform\bin\Debug\net8.0\Match.Platform.dll
+C:\Fraud projects\SherlockPlatform\SherlockPlatform\bin\Debug\net8.0\Match.Platform.pdb
+C:\Fraud projects\SherlockPlatform\SherlockPlatform\obj\Debug\net8.0\SherlockPlatform.csproj.AssemblyReference.cache
+C:\Fraud projects\SherlockPlatform\SherlockPlatform\obj\Debug\net8.0\SherlockPlatform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fraud projects\SherlockPlatform\SherlockPlatform\obj\Debug\net8.0\SherlockPlatform.AssemblyInfoInputs.cache
+C:\Fraud projects\SherlockPlatform\SherlockPlatform\obj\Debug\net8.0\SherlockPlatform.AssemblyInfo.cs
+C:\Fraud projects\SherlockPlatform\SherlockPlatform\obj\Debug\net8.0\SherlockPlatform.csproj.CoreCompileInputs.cache
+C:\Fraud projects\SherlockPlatform\SherlockPlatform\obj\Debug\net8.0\SherlockPlatform.csproj.CopyComplete
+C:\Fraud projects\SherlockPlatform\SherlockPlatform\obj\Debug\net8.0\SherlockPlatform.dll
+C:\Fraud projects\SherlockPlatform\SherlockPlatform\obj\Debug\net8.0\refint\SherlockPlatform.dll
+C:\Fraud projects\SherlockPlatform\SherlockPlatform\obj\Debug\net8.0\SherlockPlatform.pdb
+C:\Fraud projects\SherlockPlatform\SherlockPlatform\obj\Debug\net8.0\ref\SherlockPlatform.dll
